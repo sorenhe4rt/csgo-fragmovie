@@ -1,2 +1,1 @@
-# csgo-fragmovie
-Commands for CSGO
+- "mouse5" = "mirv_input camera"
