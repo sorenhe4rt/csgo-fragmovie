@@ -1,1 +1,1 @@
-- "mouse5" = "mirv_input camera"
+- CFG FOR CSGO FRAGMOVIE
